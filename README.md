@@ -13,9 +13,8 @@ Liri node app is a node cli programme. It's like Siri. Instead of taking command
     4. do-what-it-says
         * This command will take its input command stored in random.txt file and generate output according to that command.
 
-## FlowChart of the programme:
-
-    ![FlowChart](https://github.com/HET1905/liri-node-app/blob/master/images/FlowChart.jpg "FlowChart of the app")
+## FlowChart of application:
+  ![FlowChart](https://github.com/HET1905/liri-node-app/blob/master/images/FlowChart.jpg "FlowChart of the app")
 
 ## GIF images for the commands and its output.
 
